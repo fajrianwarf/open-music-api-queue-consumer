@@ -1,7 +1,7 @@
 {
   "name": "open-music-api-queue-consumer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Dicoding submission",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ./src",
